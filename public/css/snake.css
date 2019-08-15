@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(51, 133, 255);
+}
+
+#header{
+    
+    color : rgb(64, 64, 64);
+    text-align: center;
+    font-family: 'Notable', sans-serif;
+    text-shadow: 1px 1px white;
+}
+
+ #points{
+    display: inline;
+    color: rgb(64, 64, 64);
+    text-align: left;
+    font-family: 'Notable', sans-serif;
+    text-shadow: 1px 1px white;
+
+ }
+ #playerName{
+    
+    color: rgb(64, 64, 64);
+    text-align: right;
+    font-family: 'Notable', sans-serif;
+    text-shadow: 1px 1px white;
+
+ }
